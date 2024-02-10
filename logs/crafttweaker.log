@@ -1,0 +1,12 @@
+[19:34:28.820][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[19:34:29.151][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'crafttweaker' at version '7.1.2.527'
+'dimstages' at version '3.0.3'
+'gamestages' at version '7.3.13'
+'itemstages' at version '3.0.9'
+'jeitweaker' at version '1.1.0.49'
+'orestages' at version '1.16.5-V3'
+'recipestages' at version '2.0.0.21'
+[19:34:29.463][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[19:34:33.270][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[19:34:33.908][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
