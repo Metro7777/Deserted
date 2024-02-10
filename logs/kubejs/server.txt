@@ -1,0 +1,55 @@
+[19:37:20] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:20] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:20] [INFO ] Loaded 1/1 KubeJS server scripts in 0.004 s
+[19:37:20] [INFO ] Scripts loaded
+[19:37:20] [INFO ] Scanning recipes...
+[19:37:20] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:20] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:20] [INFO ] Loaded 1/1 KubeJS server scripts in 0.003 s
+[19:37:20] [INFO ] Scripts loaded
+[19:37:20] [INFO ] Scanning recipes...
+[19:37:20] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:20] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[19:37:20] [INFO ] Loaded 1/1 KubeJS server scripts in 0.004 s
+[19:37:20] [INFO ] Scripts loaded
+[19:37:20] [INFO ] Scanning recipes...
+[19:37:20] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:20] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[19:37:20] [INFO ] Loaded 1/1 KubeJS server scripts in 0.004 s
+[19:37:20] [INFO ] Scripts loaded
+[19:37:20] [INFO ] Scanning recipes...
+[19:37:21] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:21] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:21] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:21] [INFO ] Scripts loaded
+[19:37:21] [INFO ] Scanning recipes...
+[19:37:21] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:21] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:21] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:21] [INFO ] Scripts loaded
+[19:37:21] [INFO ] Scanning recipes...
+[19:37:21] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:21] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:21] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:21] [INFO ] Scripts loaded
+[19:37:21] [INFO ] Scanning recipes...
+[19:37:21] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:21] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:21] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:21] [INFO ] Scripts loaded
+[19:37:21] [INFO ] Scanning recipes...
+[19:37:22] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:22] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:22] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:22] [INFO ] Scripts loaded
+[19:37:22] [INFO ] Scanning recipes...
+[19:37:22] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:22] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:22] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:22] [INFO ] Scripts loaded
+[19:37:22] [INFO ] Scanning recipes...
+[19:37:22] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:37:22] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:37:22] [INFO ] Loaded 1/1 KubeJS server scripts in 0.002 s
+[19:37:22] [INFO ] Scripts loaded
+[19:37:22] [INFO ] Scanning recipes...
