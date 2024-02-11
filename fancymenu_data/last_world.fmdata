@@ -1,7 +1,12 @@
 type = last_world
 
 last_world {
+<<<<<<< HEAD
   is_server = false
   world = ../../instances/Deserted/saves/New World (10)
+=======
+  is_server = true
+  world = Pizzasucht.net
+>>>>>>> c731f2ec8ec711ae2eda9022d78cbd8310101b79
 }
 
