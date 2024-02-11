@@ -1,26 +1,46 @@
-[08:58:43] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[08:58:43] [INFO ] Loaded script server_scripts:script.js in 0.003 s
-[08:58:43] [INFO ] Loaded 1/1 KubeJS server scripts in 0.013 s
-[08:58:43] [INFO ] Scripts loaded
-[08:58:43] [INFO ] Scanning recipes...
-[08:58:44] [INFO ] [blocks] Found 174 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [blocks] Found 174 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [items] Found 240 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [items] Found 240 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [fluids] Found 11 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [fluids] Found 11 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [entity_types] Found 8 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [entity_types] Found 8 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] Found 1431 recipes and 0 failed recipes in 70.85 ms
-[08:58:44] [INFO ] Posted recipe events in 1.253 ms
-[08:58:44] [INFO ] Modified & removed recipes in 27.04 ms
-[08:58:44] [INFO ] Added recipes in 584.5 μs
-[08:58:44] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
-[08:58:44] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[08:58:44] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:23] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[18:14:23] [INFO ] Loaded script server_scripts:script.js in 0.004 s
+[18:14:23] [INFO ] Loaded 1/1 KubeJS server scripts in 0.013 s
+[18:14:23] [INFO ] Scripts loaded
+[18:14:23] [INFO ] Scanning recipes...
+[18:14:25] [INFO ] [blocks] Found 191 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [blocks] Found 191 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [items] Found 327 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [items] Found 327 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [fluids] Found 4 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [fluids] Found 4 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [tile_entity_types] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [WARN ] Failed to parse recipe 'advancedrocketry:observatory_alt[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'advancedrocketry:solararray'
+[18:14:25] [WARN ] Failed to parse recipe advancedrocketry:observatory_alt[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'advancedrocketry:solararray'
+[18:14:25] [WARN ] Failed to parse recipe 'tac:light_armor_plate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
+[18:14:25] [WARN ] Failed to parse recipe tac:light_armor_plate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
+[18:14:25] [WARN ] Failed to parse recipe 'tac:medium_steel_armor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
+[18:14:25] [WARN ] Failed to parse recipe tac:medium_steel_armor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
+[18:14:25] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe 'tac:light_armor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
+[18:14:25] [WARN ] Failed to parse recipe tac:light_armor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
+[18:14:25] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe 'tac:module_item[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
+[18:14:25] [WARN ] Failed to parse recipe tac:module_item[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
+[18:14:25] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[18:14:25] [INFO ] Found 1704 recipes and 0 failed recipes in 88.86 ms
+[18:14:25] [INFO ] Posted recipe events in 1.384 ms
+[18:14:25] [INFO ] Modified & removed recipes in 33.21 ms
+[18:14:25] [INFO ] Added recipes in 730.1 μs
+[18:14:25] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[18:14:25] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[18:14:25] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
