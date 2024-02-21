@@ -1,22 +1,14 @@
-[10:25:36.876][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[10:25:36.907][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[10:25:36.910][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[10:25:38.023][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[10:25:38.023][INFO]: - 'crafttweaker' at version '9.1.211'
-[10:25:38.024][INFO]: - 'gamestages' at version '8.1.3'
-[10:25:38.024][INFO]: - 'itemstages' at version '4.0.5'
-[10:25:38.024][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[10:25:38.024][INFO]: - 'orestages' at version '1.18.2-V0.4'
-[10:25:38.024][INFO]: - 'recipestages' at version '3.0.0.10'
-[10:25:41.371][INFO]: Started loading scripts for loader 'initialize'
-[10:25:41.757][INFO]: Compiling and executing scripts
-[10:25:41.818][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[10:25:41.919][INFO]: Execution for loader 'initialize' completed successfully
-[10:27:39.779][INFO]: Started loading scripts for loader 'tags'
-[10:27:39.800][INFO]: Compiling and executing scripts
-[10:27:39.811][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[10:27:39.818][INFO]: Execution for loader 'tags' completed successfully
-[10:27:40.410][INFO]: Started loading scripts for loader 'crafttweaker'
-[10:27:40.432][INFO]: Compiling and executing scripts
-[10:27:40.701][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[10:27:40.710][INFO]: Execution for loader 'crafttweaker' completed successfully
+[14:45:29.355][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[14:45:29.367][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[14:45:29.368][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[14:45:30.212][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[14:45:30.214][INFO]: - 'crafttweaker' at version '9.1.211'
+[14:45:30.214][INFO]: - 'gamestages' at version '8.1.3'
+[14:45:30.214][INFO]: - 'itemstages' at version '4.0.5'
+[14:45:30.214][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[14:45:30.214][INFO]: - 'orestages' at version '1.18.2-V0.4'
+[14:45:30.215][INFO]: - 'recipestages' at version '3.0.0.10'
+[14:45:34.706][INFO]: Started loading scripts for loader 'initialize'
+[14:45:35.162][INFO]: Compiling and executing scripts
+[14:45:35.207][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[14:45:35.325][INFO]: Execution for loader 'initialize' completed successfully
