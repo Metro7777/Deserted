@@ -1,14 +1,20 @@
-[15:00:59.329][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[15:00:59.341][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[15:00:59.342][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[15:01:00.050][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[15:01:00.051][INFO]: - 'crafttweaker' at version '9.1.211'
-[15:01:00.051][INFO]: - 'gamestages' at version '8.1.3'
-[15:01:00.051][INFO]: - 'itemstages' at version '4.0.5'
-[15:01:00.051][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[15:01:00.051][INFO]: - 'orestages' at version '1.18.2-V0.4'
-[15:01:00.051][INFO]: - 'recipestages' at version '3.0.0.10'
-[15:01:04.810][INFO]: Started loading scripts for loader 'initialize'
-[15:01:05.378][INFO]: Compiling and executing scripts
-[15:01:05.423][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[15:01:05.552][INFO]: Execution for loader 'initialize' completed successfully
+[14:10:56.169][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[14:10:56.189][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[14:10:57.158][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[14:10:57.159][INFO]: - 'crafttweaker' at version '9.1.211'
+[14:10:57.159][INFO]: - 'gamestages' at version '8.1.3'
+[14:10:57.159][INFO]: - 'itemstages' at version '4.0.5'
+[14:10:57.159][INFO]: - 'orestages' at version '1.18.2-V0.4'
+[14:10:57.159][INFO]: - 'recipestages' at version '3.0.0.10'
+[14:11:00.094][INFO]: Started loading scripts for loader 'initialize'
+[14:11:00.597][INFO]: Compiling and executing scripts
+[14:11:00.642][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[14:11:00.747][INFO]: Execution for loader 'initialize' completed successfully
+[14:11:14.941][INFO]: Started loading scripts for loader 'crafttweaker'
+[14:11:14.963][INFO]: Compiling and executing scripts
+[14:11:15.247][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[14:11:15.248][INFO]: Loading file 'GameStages/BioTechnology.zs' with priority 0
+[14:11:15.248][INFO]: Loading file 'GameStages/EscapeIntoSpace.zs' with priority 0
+[14:11:15.248][INFO]: Loading file 'GameStages/RestoreThePast.zs' with priority 0
+[14:11:15.261][INFO]: [ItemStages] Creating new restriction for stages [RestoreThePast].
+[14:11:15.262][INFO]: Execution for loader 'crafttweaker' completed successfully
