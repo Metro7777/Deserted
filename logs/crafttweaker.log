@@ -1,20 +1,29 @@
-[14:10:56.169][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[14:10:56.189][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[14:10:57.158][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[14:10:57.159][INFO]: - 'crafttweaker' at version '9.1.211'
-[14:10:57.159][INFO]: - 'gamestages' at version '8.1.3'
-[14:10:57.159][INFO]: - 'itemstages' at version '4.0.5'
-[14:10:57.159][INFO]: - 'orestages' at version '1.18.2-V0.4'
-[14:10:57.159][INFO]: - 'recipestages' at version '3.0.0.10'
-[14:11:00.094][INFO]: Started loading scripts for loader 'initialize'
-[14:11:00.597][INFO]: Compiling and executing scripts
-[14:11:00.642][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:11:00.747][INFO]: Execution for loader 'initialize' completed successfully
-[14:11:14.941][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:11:14.963][INFO]: Compiling and executing scripts
-[14:11:15.247][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:11:15.248][INFO]: Loading file 'GameStages/BioTechnology.zs' with priority 0
-[14:11:15.248][INFO]: Loading file 'GameStages/EscapeIntoSpace.zs' with priority 0
-[14:11:15.248][INFO]: Loading file 'GameStages/RestoreThePast.zs' with priority 0
-[14:11:15.261][INFO]: [ItemStages] Creating new restriction for stages [RestoreThePast].
-[14:11:15.262][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:34:28.402][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:34:28.404][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:34:29.254][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:34:29.256][INFO]: - 'crafttweaker' at version '9.1.211'
+[18:34:29.256][INFO]: - 'gamestages' at version '8.1.3'
+[18:34:29.256][INFO]: - 'itemstages' at version '4.0.5'
+[18:34:29.256][INFO]: - 'orestages' at version '1.18.2-V0.4'
+[18:34:29.256][INFO]: - 'recipestages' at version '3.0.0.10'
+[18:34:34.120][INFO]: Started loading scripts for loader 'initialize'
+[18:34:34.707][INFO]: Compiling and executing scripts
+[18:34:34.751][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:34:34.907][INFO]: Execution for loader 'initialize' completed successfully
+[18:34:57.528][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:34:57.557][INFO]: Compiling and executing scripts
+[18:34:58.031][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:34:58.032][INFO]: Loading file 'GameStages/BioTechnology.zs' with priority 0
+[18:34:58.032][INFO]: Loading file 'GameStages/EscapeIntoSpace.zs' with priority 0
+[18:34:58.032][INFO]: Loading file 'GameStages/RestoreThePast.zs' with priority 0
+[18:34:58.047][INFO]: [ItemStages] Creating new restriction for stages [RestoreThePast].
+[18:34:58.049][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:40:56.963][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:40:56.964][INFO]: Undoing previous actions
+[18:40:56.985][INFO]: Compiling and executing scripts
+[18:40:57.103][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:40:57.103][INFO]: Loading file 'GameStages/BioTechnology.zs' with priority 0
+[18:40:57.104][INFO]: Loading file 'GameStages/EscapeIntoSpace.zs' with priority 0
+[18:40:57.104][INFO]: Loading file 'GameStages/RestoreThePast.zs' with priority 0
+[18:40:57.115][INFO]: [ItemStages] Creating new restriction for stages [RestoreThePast].
+[18:40:57.115][INFO]: Execution for loader 'crafttweaker' completed successfully
