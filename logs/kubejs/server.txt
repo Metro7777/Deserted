@@ -1,48 +1,48 @@
-[12:23:02] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[12:23:02] [INFO ] Loaded script server_scripts:script.js in 0.001 s
-[12:23:02] [INFO ] Loaded 1/1 KubeJS server scripts in 0.007 s
-[12:23:02] [INFO ] Scripts loaded
-[12:23:02] [INFO ] Scanning recipes...
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore_singular[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_difference_present
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore_singular[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore_dense[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_intersection_present
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore_dense[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore_dense[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_intersection_present
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore_dense[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
-[12:23:03] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:rusted_iron_pillar_block[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:rusted_iron_pillar_block'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:rusted_iron_pillar_block[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:rusted_iron_pillar_block'
-[12:23:03] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:flag[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:iron_plate'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:flag[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:iron_plate'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore_singular[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_difference_present
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore_singular[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:glacio_planks[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_logs'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:glacio_planks[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_logs'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:glacio_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:glacio_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:glacio_slab[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:glacio_slab[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:glacio_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:glacio_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:glacio_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:glacio_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore_singular[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_difference_present
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore_singular[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:glacio_trapdoor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:glacio_trapdoor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
-[12:23:03] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore_dense[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_intersection_present
-[12:23:03] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore_dense[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
-[12:23:03] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[12:23:03] [INFO ] Found 3566 recipes and 0 failed recipes in 131.8 ms
-[12:23:03] [INFO ] Posted recipe events in 604.5 μs
-[12:23:03] [INFO ] Modified & removed recipes in 46.47 ms
-[12:23:03] [INFO ] Added recipes in 621.6 μs
-[12:23:03] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[19:23:39] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:23:39] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[19:23:39] [INFO ] Loaded 1/1 KubeJS server scripts in 0.007 s
+[19:23:39] [INFO ] Scripts loaded
+[19:23:40] [INFO ] Scanning recipes...
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore_singular[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_difference_present
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore_singular[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore_dense[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_intersection_present
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore_dense[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/ostrum/ore_dense[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_intersection_present
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/ostrum/ore_dense[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
+[19:23:42] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:rusted_iron_pillar_block[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:rusted_iron_pillar_block'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:rusted_iron_pillar_block[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:rusted_iron_pillar_block'
+[19:23:42] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:flag[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:iron_plate'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:flag[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:iron_plate'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/calorite/ore_singular[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_difference_present
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/calorite/ore_singular[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:glacio_planks[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_logs'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:glacio_planks[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_logs'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:glacio_crafting_table[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:glacio_crafting_table[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:glacio_slab[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:glacio_slab[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:glacio_door[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:glacio_door[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:glacio_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:glacio_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore_singular[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_difference_present
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore_singular[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:glacio_trapdoor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:glacio_trapdoor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'beyond_earth:glacio_wood_planks'
+[19:23:42] [WARN ] Failed to parse recipe 'beyond_earth:smeltery/melting/metal/desh/ore_dense[tconstruct:ore_melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown condition type: tconstruct:tag_intersection_present
+[19:23:42] [WARN ] Failed to parse recipe beyond_earth:smeltery/melting/metal/desh/ore_dense[tconstruct:ore_melting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:ore_melting'
+[19:23:42] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[19:23:42] [INFO ] Found 3566 recipes and 0 failed recipes in 149.0 ms
+[19:23:42] [INFO ] Posted recipe events in 507.0 μs
+[19:23:42] [INFO ] Modified & removed recipes in 54.64 ms
+[19:23:42] [INFO ] Added recipes in 419.8 μs
+[19:23:42] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
