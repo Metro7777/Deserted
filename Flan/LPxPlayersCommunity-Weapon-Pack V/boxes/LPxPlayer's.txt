@@ -1,0 +1,135 @@
+Name CommunityWeaponBox
+ShortName LPxPlayer's
+TopTexture boxTop
+SideTexture CommunityBox
+BottomTexture boxBottom
+GunBoxID 2000
+Recipe I iron B dyePowder.0 Y dyePowder.11
+III
+YBY
+III
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as iron (ingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+//NumGuns must come before all the addGun lines and must be correct.
+NumGuns 64
+AddGun 3Barrel 15 iron 10 log 
+AddAmmo 3BarrelMAG 2 iron 5 gunpowder
+AddGun 5ShotFlintlock 5 iron 1 log
+AddAmmo 5ShotFlintlockMAG 1 iron 2 gunpowder
+AddGun 8Barrel 18 iron 5 log 
+AddAmmo 8BarrelMAG 5 iron 8 gunpowder
+AddGun 44Magnum 7 iron
+AddAmmo 44MagnumMAG 6 iron 6 gunpowder
+AddGun 55Rifle 28 iron 15 log
+AddAmmo 55RifleMAG 20 iron 10 gunpowder
+AddGun AA12 18 iron 2 redstone
+AddAmmo AA12MAG 10 iron 5 gunpowder
+AddGun ACR 18 iron 2 redstone 2 glass
+AddAmmo ACRMAG 8 iron 6 gunpowder
+AddGun AdminCannon 64 blockIron 64 diamond 64 log 64 redstone
+AddAmmo AdminCannonMAG 5 blockIron 35 gunpowder 30 redstone
+AddGun AK5C 15 iron 2 redstone
+AddGun AK5CCamo 15 iron 2 redstone 4 dyePowder.11
+AddAmmo AK5CMAG 8 iron 6 gunpowder
+AddGun AK-12 18 iron 2 redstone 2 glass
+AddAmmo AK-12MAG 10 iron 8 gunpowder
+AddGun AK-47 16 iron 5 log 2 dyePowder.0
+AddAmmo AK-47MAG 12 iron 12 gunpowder 1 
+AddGun AT4 28 iron 6 redstone 2 glass
+AddAmmo AT4MAG 20 iron 2 redstone 25 gunpowder
+AddGun Barret 23 iron 5 redstone 10 glass
+AddGun BarretCamo 23 iron 5 redstone 10 glass 5 dyePowder.2
+AddAmmo Cal.50MAG 17 iron 15 gunpowder
+AddGun Duckfoot 7 iron 2 log 1 
+AddAmmo DuckfootMAG 4 iron 4 gunpowder
+AddGun F2000 18 iron 2 glass 5 dyePowder.11
+AddAmmo F2000MAG 10 iron 5 gunpowder
+AddGun Famas 15 iron 2 log 2 redstone
+AddAmmo FamasMAG 10 iron 5 gunpowder
+AddGun Flare 10 iron 1 log 1 redstone
+AddAmmo FlareMAG 5 iron 10 redstone 3 gunpowder
+AddGun G18 8 iron 2 glass 
+AddAmmo G18MAG 20 iron 15 gunpowder
+AddGun G36C 15 iron 2 redstone 2 glass
+AddAmmo G36CMAG 8 iron 6 gunpowder
+AddGun G51 12 iron 3 redstone 3 glass
+AddAmmo G51MAG 25 iron 18 gunpowder
+AddGun G53 14 iron 3 redstone 2 glass
+AddAmmo G53MAG 14 iron 7 gunpowder 
+AddGun HK416 16 iron 2  
+AddAmmo HK416MAG 10 iron 8 gunpowder
+AddGun L96Scoped 21 iron 2 redstone 5 glass
+AddAmmo L96MAG 17 iron 14 gunpowder 
+AddGun M1 14 iron 5 log 2 
+AddAmmo M1MAG 8 iron 5 gunpowder
+AddGun M4 16 iron 3 redstone 3 glass 1 
+AddAmmo M4MAG 8 iron 6 gunpowder
+AddGun M14 16 iron 5 log 
+AddAmmo M14MAG 12 iron 6 gunpowder 1 
+AddGun M16A2 18 iron 1  
+AddAmmo M16A2MAG 10 iron 8 gunpowder 
+AddGun M32 30 iron 10 redstone 5 glass
+AddAmmo M32MAG 18 iron 20 gunpowder 5 redstone
+AddGun M79 20 iron 3 log
+AddAmmo M79MAG 13 iron 10 gunpowder 1 redstone
+AddGun M1014 17 iron 2 
+AddAmmo M1014MAG 12 iron 10 gunpowder 5 redstone
+AddGun MAC-10 10 iron 2 redstone
+AddGun MAC-10Silenced 12 iron 2 redstone
+AddAmmo MAC-10MAG 7 iron 5 gunpowder
+AddGun MiniGun 25 iron 17 redstone 10 glass
+AddAmmo MiniGunMAG 50 iron 35 gunpowder 5 redstone
+AddGun MosinNagant 16 iron 4 log
+AddAmmo MosinNagantMAG 8 iron 5 gunpowder 
+AddGun MP7 10 iron 2 redstone
+AddAmmo MP7MAG 7 iron 5 gunpowder 
+AddGun MTar21 18 iron 3 dyePowder.4 2 redstone
+AddAmmo MTar21MAG 10 iron 8 gunpowder
+AddGun Musket 10 iron 2 log 
+AddAmmo MusketMAG 1 iron 2 gunpowder
+AddGun MX4 13 iron 
+AddAmmo MX4MAG 8 iron 5 gunpowder 
+AddGun P90 12 iron 2 redstone 3 dyePowder.1
+AddAmmo P90MAG 10 iron 2 glass
+AddGun PP2000 10 iron 1 dyePowder.4
+AddAmmo PP2000MAG 6 iron 5 gunpowder
+AddGun SCAR-H 20 iron 3 redstone
+AddAmmo SCAR-HMAG 14 iron 10 gunpowder
+AddGun SCAR-L 16 iron 2 redstone
+AddAmmo SCAR-LMAG 12 iron 7 gunpowder
+AddGun Sig516 16 iron 3 glass 3 redstone 2 dyePowder.2
+AddGun Sig516Grey 16 iron 3 glass 3 redstone 
+AddAmmo SG516MAG 10 iron  7 gunpowder
+AddGun Spas-12 18 iron 2 dyePowder.2
+AddGun Spas-12Grey 18 iron 
+AddAmmo Spas-12MAG 12 iron 10 gunpowder 2 
+AddGun UMP45 12 iron 2 redstone 2 dyePowder.12
+AddAmmo UMP45MAG 6 iron 5 gunpowder
+AddGun WaltherP99 7 iron 2 redstone
+AddGun WaltherP99SD 8 iron 3 redstone
+AddGun WaltherPPK 7 iron 2 redstone
+AddGun WaltherPPKSD 8 iron 3 redstone
+AddAmmo WaltherMAG 5 iron 5 gunpowder 
+AddGun Zbuster 35 iron 20 glass 20 redstone 10 diamond
+AddAmmo ZbusterMAG 18 iron 30 redstone 5 glass
+AddGun DAO-12 20 iron 2 redstone 
+AddAmmo DAO-12MAG 10 iron 1 redstone 8 gunpowder
+AddGun M98B 22 iron 2 redstone 5 glass 
+AddAmmo M98BMAG 15 iron 2 redstone 10 gunpowder
+AddGun M200 24 iron 3 redstone 5 glass
+AddAmmo M200MAG 17 iron 2 redstone 13 gunpowder
+AddGun MP5 12 iron 2 log 2 redstone
+AddAmmo MP5MAG 6 iron 5 gunpowder
+AddGun RPG-7 28 iron 6 redstone 4 log
+AddAmmo tandemRPG-7MAG 25 iron 3 redstone 30 gunpowder
+AddGun Shorty 8 iron 2 redstone
+AddAmmo ShortyMAG 6 iron 5 gunpowder
+AddGun Vector 15 iron 5 redstone 
+AddAmmo VectorMAG 8 iron 6 gunpowder 2 redstone
+AddGun VHCAP 10 iron 5 redstone
+AddAmmo VHCAPA 10 iron 5 redstone
+AddGun VHCAT 15 iron 5 redstone
+AddAmmo VHCATA 20 iron 5 redstone

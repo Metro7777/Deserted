@@ -1,0 +1,1 @@
+{ "parent": "block/cube", "textures": { "particle": "flansmod:blocks/CommunityBox", "down": "flansmod:blocks/boxBottom", "up": "flansmod:blocks/boxTop", "north": "flansmod:blocks/CommunityBox", "east": "flansmod:blocks/CommunityBox", "south": "flansmod:blocks/CommunityBox", "west": "flansmod:blocks/CommunityBox" } } 

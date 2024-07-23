@@ -1,0 +1,24 @@
+Name LPxPlayer's Famas
+ShortName Famas
+//The ammo this gun uses (shortName)
+Ammo FamasMAG
+Icon Famas
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 1800
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 60
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 3
+//Damage in half hearts
+Damage 5
+//The higher this value, the more the bullets spread
+Accuracy 2
+//Time in ticks between rounds
+ShootDelay 1
+ShootSound AK47Shoot
+ReloadSound mp44Reload
+Mode FullAuto
+Scope None
+Deployable False
+DeployedModel None

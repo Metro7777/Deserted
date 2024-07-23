@@ -1,0 +1,26 @@
+Name Berg's Spas-12Grey
+ShortName Spas-12Grey
+//The ammo this gun uses (shortName)
+Ammo Spas-12MAG
+Icon Spas-12Grey
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 1864
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 70
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 2
+//Number of bullet entities to create, useful for shotguns, defaults to 1
+NumBullets 10
+//Damage in half hearts
+Damage 3
+//The higher this value, the more the bullets spread
+Accuracy 4
+//Time in ticks between rounds
+ShootDelay 5
+ShootSound M1014Shoot
+ReloadSound M1014Reload
+Mode SemiAuto
+Scope None
+Deployable False
+DeployedModel None

@@ -1,0 +1,26 @@
+Name Mega's Noobkiller
+ShortName RPG-7
+//The ammo this gun uses (shortName)
+Ammo tandemRPG-7MAG
+Icon RPG-7
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 1916
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 100
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 3
+//Number of bullet entities to create, useful for shotguns, defaults to 1
+NumBullets 1
+//Damage in half hearts
+Damage 40
+//The higher this value, the more the bullets spread
+Accuracy 1
+//Time in ticks between rounds
+ShootDelay 10
+ShootSound RPGShoot
+ReloadSound bazookaReload
+Mode SemiAuto
+Scope None
+Deployable False
+DeployedModel None
