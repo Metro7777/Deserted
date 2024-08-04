@@ -92,6 +92,10 @@ key_Scene2 start/pause:80
 key_Scene3 start/pause:81
 key_Scene reset:82
 key_Quest Log:38
+key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211
+key_key.ftbquests.quests:0
+key_key.ftbmoney.shop:0
 key_key.jetpack_activate:36
 key_key.jetpack_hover:35
 key_key.jetpack_hud:22
@@ -104,6 +108,8 @@ key_key.categories.hbm.craneMoveDown:208
 key_key.categories.hbm.craneMoveLeft:203
 key_key.categories.hbm.craneMoveRight:205
 key_key.categories.hbm.craneLoad:28
+key_key.vehicle.horn:35
+key_key.vehicle.cycle_seats:46
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
