@@ -1,0 +1,30 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: DesertedOverworld/the_end
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM2
+    the_end: false
+    title: DesertedOverworld/planet
+    height: 256
+-   sealevel: 63
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: DesertedOverworld/the_nether
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DesertedOverworld
+    the_end: false
+    title: DesertedOverworld/overworld
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256
