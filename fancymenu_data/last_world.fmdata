@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = DesertedOverworld
+  is_server = true
+  world = pizzasucht.net
 }
 

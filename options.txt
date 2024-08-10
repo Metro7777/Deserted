@@ -145,6 +145,17 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_key.mcreator.open_alarm_help:25
+key_tfc.key.craft:46
+key_tfc.key.placeblock:47
+key_tfc.key.itemmode:50
+key_tfc.key.stack:45
+key_Toggle Jetpack:45
+key_Open Rocket GUI:46
+key_Toggle RCS:19
+key_Rotate Vehicle Right:32
+key_Rotate Vehicle Left:30
+key_Move Vehicle Up:44
+key_Move Vehicle Down:45
 key_key.entityculling.toggle:-1
 soundCategory_master:0.052980132
 soundCategory_music:1.0
