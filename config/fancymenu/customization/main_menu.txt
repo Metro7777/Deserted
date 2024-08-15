@@ -1,0 +1,146 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = FMR/IMG/temporarybackground.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 370e22c1-436e-417a-96e7-5e193fcaa26a1723567448885
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 161
+  action = deep_customization_element:title_screen_branding
+  actionid = 616d162a-d2ea-4132-a093-035817ee6d961723567448902
+  y = 313
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = c8e42996-752f-4d49-9aa5-f16f2c37ce251723567448902
+  y = 345
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 2405beb9-69db-4a7f-a5c0-4740214e091f1723567448902
+  y = 191
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 65e85784-69d7-40ec-a82b-cdf6d87005b31723567448902
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 93721f35-b745-43dd-80d1-f07a63d3e08e1723567448903
+  y = 0
+  height = 30
+}
+
+customization {
+  path = FMR/IMG/desertedtitle.png
+  orientation = top-centered
+  x = -131
+  width = 263
+  actionid = e219d8b5-3f33-48e7-b803-5e564f23e1d41723567470005
+  action = addtexture
+  y = -29
+  height = 152
+}
+
+customization {
+  orientation = mid-centered
+  shape = rectangle
+  color = #444036
+  x = -100
+  width = 200
+  actionid = cef82a3a-6dec-40be-ae24-9695a01f52cd1723567541517
+  action = addshape
+  y = -98
+  height = 51
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = FMR/TXT/Splash.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 404
+  actionid = c9ace022-4514-4575-bae1-b4ee70ea2bb81723568287161
+  action = addsplash
+  y = 50
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Server Stats:%n%%n%Online: {"placeholder":"serverplayercount","values":{"ip":"pizzasucht.net:25566"}}%n%Status: {"placeholder":"serverstatus","values":{"ip":"pizzasucht.net:25566"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 221
+  width = 198
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 37ef1f09-ae8f-47b8-895d-9e02ff93b6e31723568318471
+  y = 85
+  alignment = left
+  height = 49
+}
+
