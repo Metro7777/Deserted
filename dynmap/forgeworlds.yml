@@ -1,0 +1,36 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    name: DIM-11
+    the_end: false
+    title: WASTED/Storage Cell
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: WASTED/the_end
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: WASTED
+    the_end: false
+    title: WASTED/overworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM2
+    the_end: false
+    title: WASTED/planet
+    height: 256
+-   sealevel: 63
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: WASTED/the_nether
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256

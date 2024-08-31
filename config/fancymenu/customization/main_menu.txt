@@ -19,6 +19,37 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
   orientation = top-left
   hidden = true
   x = 186
@@ -31,23 +62,23 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 2
   width = 161
   action = deep_customization_element:title_screen_branding
   actionid = 616d162a-d2ea-4132-a093-035817ee6d961723567448902
-  y = 313
+  y = 195
   height = 50
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 411
+  x = 591
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = c8e42996-752f-4d49-9aa5-f16f2c37ce251723567448902
-  y = 345
+  y = 326
   height = 9
 }
 
@@ -87,46 +118,19 @@ customization {
 }
 
 customization {
-  path = FMR/IMG/desertedtitle.png
-  orientation = top-centered
-  x = -131
-  width = 263
-  actionid = e219d8b5-3f33-48e7-b803-5e564f23e1d41723567470005
-  action = addtexture
-  y = -29
-  height = 152
-}
-
-customization {
-  orientation = mid-centered
+  orientation = bottom-left
   shape = rectangle
   color = #444036
-  x = -100
-  width = 200
+  x = 3
+  width = 169
   actionid = cef82a3a-6dec-40be-ae24-9695a01f52cd1723567541517
   action = addshape
-  y = -98
-  height = 51
+  y = -46
+  height = 42
 }
 
 customization {
-  orientation = top-left
-  basecolor = #ffff00
-  shadow = true
-  splashfilepath = FMR/TXT/Splash.txt
-  rotation = -20.0
-  scale = 1.0
-  refresh = false
-  bouncing = true
-  vanilla-like = false
-  x = 404
-  actionid = c9ace022-4514-4575-bae1-b4ee70ea2bb81723568287161
-  action = addsplash
-  y = 50
-}
-
-customization {
-  orientation = top-left
+  orientation = bottom-left
   enable_scrolling = true
   shadow = true
   scale = 1.0
@@ -135,12 +139,55 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 221
+  x = 4
   width = 198
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 37ef1f09-ae8f-47b8-895d-9e02ff93b6e31723568318471
-  y = 85
+  y = -46
   alignment = left
   height = 49
+}
+
+customization {
+  path = FMR/IMG/desertedtitle.png
+  orientation = top-centered
+  x = -131
+  width = 263
+  actionid = e219d8b5-3f33-48e7-b803-5e564f23e1d41723567470005
+  action = addtexture
+  y = -37
+  height = 152
+}
+
+customization {
+  orientation = top-centered
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = FMR/TXT/Splash.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 82
+  actionid = c9ace022-4514-4575-bae1-b4ee70ea2bb81723568287161
+  action = addsplash
+  y = 39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -33
 }
 
